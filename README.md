@@ -1,1 +1,1 @@
-# aws-lambda-java-basic
+# aws-lambda-java-basic - Dependabot Demo
