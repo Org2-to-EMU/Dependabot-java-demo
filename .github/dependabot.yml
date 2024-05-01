@@ -11,3 +11,6 @@ updates:
       interval: "weekly"
     #Allow up to 10 open pull requests for pip dependencies
     open-pull-requests-limit: 5
+    time: "09:00"
+    # Use Japan Standard Time (UTC +09:00)
+    timezone: "Asia/Tokyo"    
